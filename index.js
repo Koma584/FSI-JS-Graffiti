@@ -1,2 +1,3 @@
-
 // Select some elements...
+let header = document.querySelector("h2");
+header.style.textAlign = "left";
